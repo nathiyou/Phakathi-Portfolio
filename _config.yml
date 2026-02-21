@@ -1,0 +1,10 @@
+title: "Nkosinathi Phakathi Portfolio"
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - ethics.md
+  - spiritual-growth.md
+  - reflection.md
+  - resume.md
