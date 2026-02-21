@@ -1,3 +1,5 @@
+> “In your patience possess ye your souls.” ~ Luke 21:19
+>   
 # Nkosinathi Phakathi  
 ## IT Professional | Automation | Cybersecurity | Ethical Leadership
 
